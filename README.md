@@ -1,3 +1,5 @@
+<img width="800" height="320" alt="image" src="https://github.com/user-attachments/assets/202d6434-f560-4856-80b8-61deaadce7dd" />
+
 # ¡Hola, soy Víctor! 👋
 
 ## 🚀 Sobre mí
