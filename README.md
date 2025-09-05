@@ -18,4 +18,4 @@ aprendiendo constantemente nuevas tecnologías.
 
 ## 🌐 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/víctor-sánchez-b96908367/)
-- [Portfolio]([https://www.linkedin.com/in/víctor-sánchez-b96908367/](https://victor-sanchez.netlify.app/))
+- [Portfolio](https://victor-sanchez.netlify.app/)
